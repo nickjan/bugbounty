@@ -5,3 +5,10 @@ plugins:
   - jekyll-redirect-from
   - jekyll-sitemap
   - jekyll-feed
+docs_list_title: ACME Documentation
+docs:
+- title: Introduction
+  url: introduction.html
+
+- title: Configuration
+  url: configuration.html
