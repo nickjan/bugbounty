@@ -1,12 +1,7 @@
 ## Welcome to GitHub Pages
 
 
-<h2>{{ site.data.samplelist.docs_list_title }}</h2>
-<ul>
-   {% for item in site.data.samplelist.docs %}
-      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
-   {% endfor %}
-</ul>
+
 
 
 You can use the [editor on GitHub](https://github.com/nickjan/bugbounty/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
